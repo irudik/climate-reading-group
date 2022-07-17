@@ -18,7 +18,7 @@ Heutel, Garth, Nolan H. Miller, and David Molitor. "Adaptation and the mortality
 
 Shrader, Jeffrey. "Improving Climate Damage Estimates by Accounting for Adaptation." (2022)
 
-Hedonics / Finance
+# Hedonics / Finance
 
 Baldauf, Markus, Lorenzo Garlappi, and Constantine Yannelis. "Does climate change affect real estate prices? Only if you believe in it." The Review of Financial Studies 33, no. 3 (2020): 1256-1295.
 
