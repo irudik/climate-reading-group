@@ -4,19 +4,17 @@
 
 ### Estimating Climate Impacts
 
-Dell, Melissa, Benjamin F. Jones, and Benjamin A. Olken. "Temperature shocks and economic growth: Evidence from the last half century." American Economic Journal: Macroeconomics 4, no. 3 (2012): 66-95.
+[Dell, Melissa, Benjamin F. Jones, and Benjamin A. Olken. "Temperature shocks and economic growth: Evidence from the last half century." American Economic Journal: Macroeconomics 4, no. 3 (2012): 66-95.](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-impacts/dell-jones-olken-2012.pdf)
 
-Zhang, Peng, Olivier Deschenes, Kyle Meng, and Junjie Zhang. "Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants." Journal of Environmental Economics and Management 88 (2018): 1-17.
+[Carleton, Tamma A., Amir Jina, Michael T. Delgado, Michael Greenstone, Trevor Houser, Solomon M. Hsiang, Andrew Hultgren et al. “Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits.” The Quarterly Journal of Economics (Forthcoming).](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-impacts/carleton-et-al-2020.pdf)
 
-Carleton, Tamma A., Amir Jina, Michael T. Delgado, Michael Greenstone, Trevor Houser, Solomon M. Hsiang, Andrew Hultgren et al. “Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits.” The Quarterly Journal of Economics (Forthcoming).
-
-Lemoine, Derek. “Estimating the consequences of climate change from variation in weather.” (2021)
+[Lemoine, Derek. “Estimating the consequences of climate change from variation in weather.” (2021)](https://rawcdn.githack.com/irudik/climate-reading-group/adbb49d54a0bda5fa9c3a1650008c7901e158e11/papers/empirical-impacts/lemoine-2021.pdf)
 
 ### Estimating Climate Adaptation
 
-Heutel, Garth, Nolan H. Miller, and David Molitor. "Adaptation and the mortality effects of temperature across US climate regions." Review of Economics and Statistics 103, no. 4 (2021): 740-753.
+[Heutel, Garth, Nolan H. Miller, and David Molitor. "Adaptation and the mortality effects of temperature across US climate regions." Review of Economics and Statistics 103, no. 4 (2021): 740-753.](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-adaptation/heutel-miller-molitor-2021.pdf)
 
-Shrader, Jeffrey. "Improving Climate Damage Estimates by Accounting for Adaptation." (2022)
+[Shrader, Jeffrey. "Improving Climate Damage Estimates by Accounting for Adaptation." (2022)](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-adaptation/shrader-2021.pdf)
 
 ### Hedonics / Finance
 
