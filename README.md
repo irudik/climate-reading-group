@@ -1,5 +1,7 @@
 # Climate reading group topics and papers
 
+### Thursday 3:00-4:00 MVR 1106 (southwest side of the building)
+
 ## Empirical
 
 ### Estimating Climate Impacts
@@ -20,7 +22,7 @@ October 19: [Shrader, Jeffrey. "Improving Climate Damage Estimates by Accounting
 
 November 2: Baldauf, Markus, Lorenzo Garlappi, and Constantine Yannelis. "Does climate change affect real estate prices? Only if you believe in it." The Review of Financial Studies 33, no. 3 (2020): 1256-1295.
 
-November 2: Giglio, Stefano, Matteo Maggiori, Krishna Rao, Johannes Stroebel, and Andreas Weber. "Climate change and long-run discount rates: Evidence from real estate." The Review of Financial Studies 34, no. 8 (2021): 3527-3571.
+November 2: Murfin, Justin, and Matthew Spiegel. "Is the risk of sea level rise capitalized in residential real estate?." The Review of Financial Studies 33, no. 3 (2020): 1217-1255.
 
 November 16: Painter, Marcus. "An inconvenient cost: The effects of climate change on municipal bonds." Journal of Financial Economics 135, no. 2 (2020): 468-482.
 
