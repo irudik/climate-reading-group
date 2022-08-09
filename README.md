@@ -32,7 +32,7 @@ November 16: Goldsmith-Pinkham, Paul S., Matthew Gustafson, Ryan Lewis, and Mich
 
 ### Quantitative Climate Impacts
 
-Nath, Ishan B. “The food problem and the aggregate productivity consequences of climate change.” (2022).
+Krusell, Per, and Anthony Smith. "Climate change around the world." (2022).
 
 Cruz Álvarez, José Luis, and Esteban Rossi-Hansberg. "The economic geography of global warming." (2021).
 
