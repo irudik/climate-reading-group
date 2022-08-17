@@ -1,6 +1,6 @@
 # Climate reading group topics and papers
 
-### Thursday 3:00-4:00 MVR 1106 (southwest side of the building)
+### Wednesday 3:00-4:00 MVR 1106 (southwest side of the building)
 
 ## Empirical
 
