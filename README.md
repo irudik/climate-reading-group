@@ -8,7 +8,7 @@
 
 August 24: [Dell, Melissa, Benjamin F. Jones, and Benjamin A. Olken. "Temperature shocks and economic growth: Evidence from the last half century." American Economic Journal: Macroeconomics 4, no. 3 (2012): 66-95.](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-impacts/dell-jones-olken-2012.pdf)
 
-September 7: [Carleton, Tamma A., Amir Jina, Michael T. Delgado, Michael Greenstone, Trevor Houser, Solomon M. Hsiang, Andrew Hultgren et al. “Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits.” The Quarterly Journal of Economics (Forthcoming).](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-impacts/carleton-et-al-2022.pdf)
+September 7: [Carleton, Tamma A., Amir Jina, Michael T. Delgado, Michael Greenstone, Trevor Houser, Solomon M. Hsiang, Andrew Hultgren et al. “Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits.” The Quarterly Journal of Economics (Forthcoming).](https://rawcdn.githack.com/irudik/climate-reading-group/b621de27bd857ebdb0c1802fe0a691c71bca1eb2/papers/empirical-impacts/carleton-et-al-2022.pdf)
 
 September 21: [Lemoine, Derek. “Estimating the consequences of climate change from variation in weather.” (2021)](https://rawcdn.githack.com/irudik/climate-reading-group/adbb49d54a0bda5fa9c3a1650008c7901e158e11/papers/empirical-impacts/lemoine-2021.pdf)
 
