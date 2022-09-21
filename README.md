@@ -14,19 +14,15 @@ September 21: [Lemoine, Derek. “Estimating the consequences of climate change 
 
 ### Estimating Climate Adaptation
 
-October 5: [Heutel, Garth, Nolan H. Miller, and David Molitor. "Adaptation and the mortality effects of temperature across US climate regions." Review of Economics and Statistics 103, no. 4 (2021): 740-753.](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-adaptation/heutel-miller-molitor-2021.pdf)
+October 19: [Heutel, Garth, Nolan H. Miller, and David Molitor. "Adaptation and the mortality effects of temperature across US climate regions." Review of Economics and Statistics 103, no. 4 (2021): 740-753.](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-adaptation/heutel-miller-molitor-2021.pdf)
 
-October 19: [Shrader, Jeffrey. "Improving Climate Damage Estimates by Accounting for Adaptation." (2022)](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-adaptation/shrader-2021.pdf)
+November 2: [Shrader, Jeffrey. "Improving Climate Damage Estimates by Accounting for Adaptation." (2022)](https://rawcdn.githack.com/irudik/climate-reading-group/81aa53f308643fdaf4cc0b4eae5d68b90cd15b4f/papers/empirical-adaptation/shrader-2021.pdf)
 
 ### Hedonics / Finance
 
-November 2: Baldauf, Markus, Lorenzo Garlappi, and Constantine Yannelis. "Does climate change affect real estate prices? Only if you believe in it." The Review of Financial Studies 33, no. 3 (2020): 1256-1295.
+November 16: Murfin, Justin, and Matthew Spiegel. "Is the risk of sea level rise capitalized in residential real estate?." The Review of Financial Studies 33, no. 3 (2020): 1217-1255.
 
-November 2: Murfin, Justin, and Matthew Spiegel. "Is the risk of sea level rise capitalized in residential real estate?." The Review of Financial Studies 33, no. 3 (2020): 1217-1255.
-
-November 16: Painter, Marcus. "An inconvenient cost: The effects of climate change on municipal bonds." Journal of Financial Economics 135, no. 2 (2020): 468-482.
-
-November 16: Goldsmith-Pinkham, Paul S., Matthew Gustafson, Ryan Lewis, and Michael Schwert. "Sea level rise exposure and municipal bond yields." (2021).
+November 30: Painter, Marcus. "An inconvenient cost: The effects of climate change on municipal bonds." Journal of Financial Economics 135, no. 2 (2020): 468-482.
 
 ## Quantitative
 
